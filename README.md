@@ -30,9 +30,10 @@ Save and Run the Program.
 ## Program:
 (i)
 block.x=1023
+
+Name : Vincent Isaac Jeyaraj J
+Register No : 212220230060
 ```
-Name : G.Chethan kumar
-Register No : 212222240022
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
